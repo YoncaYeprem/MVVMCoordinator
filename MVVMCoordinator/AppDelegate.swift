@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MVVMCoordinator
 //
-//  Created by VBT on 18.09.2024.
+//  Created by YoncaYeprem on 18.09.2024.
 //
 
 import UIKit
